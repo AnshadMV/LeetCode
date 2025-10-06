@@ -1,0 +1,8 @@
+var findClosest = function (x, y, z) {
+    if (Math.abs(z - x) == Math.abs(z - y)) {
+        return 0
+    }
+    else {
+       return Math.abs(z - x) < Math.abs(z - y) ?  1 :  2 ;
+    }
+};
