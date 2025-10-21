@@ -21,6 +21,7 @@
 | [0009-palindrome-number](https://github.com/AnshadMV/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnshadMV/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AnshadMV/LeetCode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/AnshadMV/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0022-generate-parentheses](https://github.com/AnshadMV/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshadMV/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/AnshadMV/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/AnshadMV/LeetCode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnshadMV/LeetCode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/AnshadMV/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
