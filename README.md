@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AnshadMV/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AnshadMV/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AnshadMV/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnshadMV/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AnshadMV/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AnshadMV/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
