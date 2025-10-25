@@ -22,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/AnshadMV/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AnshadMV/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/AnshadMV/LeetCode/tree/master/0412-fizz-buzz) |
+| [3830-find-closest-person](https://github.com/AnshadMV/LeetCode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
